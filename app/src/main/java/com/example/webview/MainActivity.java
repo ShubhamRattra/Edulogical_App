@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setLayoutAlgorithm(WebSettings.LayoutAlgorithm.SINGLE_COLUMN);
 
 
-        mywebView.loadUrl("https://www.google.com/?gws_rd=ssl");
+        mywebView.loadUrl("https://edulogical.tech/");
         
         // Line of Code for opening links in app
 
